@@ -5,7 +5,7 @@ It is not intended to be functional for any real intents or purposes.
 
 ## Getting Started
 
-Nohing here...
+Nothing here...
 
 ### Prerequisites
 
