@@ -5,7 +5,7 @@ It is not intended to be functional for any real intents or purposes.
 
 ## Getting Started
 
-You're own your own on this one. 
+Nohing here...
 
 ### Prerequisites
 
